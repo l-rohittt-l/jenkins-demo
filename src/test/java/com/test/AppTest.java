@@ -35,4 +35,7 @@ public class AppTest
     {
         assertTrue( true );
     }
+    public void setName() {
+    	System.out.println("First Auto Push");
+    }
 }
